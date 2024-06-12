@@ -21,5 +21,9 @@
 go.work
 go.work.sum
 
+# IDEs
+.idea
+.vscode
+
 # logs
 logs
