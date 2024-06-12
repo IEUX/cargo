@@ -1,0 +1,10 @@
+{
+  "configName": "Default",
+  "App": {
+    "Version": "0.0.0"
+  },
+  "Logger": {
+    "Dir": "",
+    "File": ""
+  }
+}

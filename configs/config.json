@@ -1,0 +1,10 @@
+{
+  "ConfigName": "DEV",
+  "App": {
+    "Version": "0.0.0"
+  },
+  "Logger": {
+    "Dir": "logs/",
+    "File": "stream.log"
+  }
+}
